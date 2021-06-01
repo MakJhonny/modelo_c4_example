@@ -1,2 +1,8 @@
 # modelo_c4_example
- Software monolítico modelado en c4
+ 
+ Software monolítico con patrón '3 capas'
+
+ ## Temática
+
+Aplicación web para venta de pasajes de una aerolinea
+
