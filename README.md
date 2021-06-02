@@ -4,5 +4,5 @@
 
  ## Temática
 
-Aplicación web para venta de pasajes de una aerolinea
+Aplicación web para venta de pasajes para vuelos de una aerolinea
 
